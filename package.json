@@ -1,0 +1,20 @@
+{
+  "name": "node-npm-tutorial",
+  "version": "1.0.1",
+  "description": "A tutorial for the FE-Road course about Node and NPM",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "fe-road",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jest": "29.7.0"
+  },
+  "peerDependencies": {
+    "react": "18.3.1"
+  }
+}
